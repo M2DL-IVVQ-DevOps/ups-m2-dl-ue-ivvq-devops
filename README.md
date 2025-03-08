@@ -1,4 +1,4 @@
-# Univ. Paul Sabatier - M2 SDL - UE DevOps
+# Univ. de Toulouse - M2 SDL - UE DevOps
 
 ([IVVQ](https://fr.wikipedia.org/wiki/IVVQ) = Intégration, Vérification, Validation, Qualification)
 
